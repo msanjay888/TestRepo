@@ -14,3 +14,6 @@ client.on_connect = on_connect
 client.publish("topic/test", "Hello world!")
 time.sleep(2)
 client.disconnect()
+
+def print:
+	print("Sanjay from sample 1")
