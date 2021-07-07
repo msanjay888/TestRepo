@@ -3,3 +3,4 @@ Sample 2 - Test File for merge conflict
 
 Added new comments from sample 1
 Added new comments from sample 2
+Added another comments from sample 1
