@@ -5,6 +5,8 @@ import time
 def on_connect(client, userdata, flags, rc):
   print("Connected with result code "+str(rc))
 
+def printsample2:
+  print("Hello from sample 2.")
 
 client = mqtt.Client()
 client.connect("localhost",1883,60)
