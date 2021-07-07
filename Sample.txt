@@ -1,1 +1,2 @@
 Test File for merge conflict - Sample 2
+Sample 2 - Test File for merge conflict
